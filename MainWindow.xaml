@@ -10,31 +10,38 @@
         <Label Content="Vehicle A" HorizontalAlignment="Left" Margin="112,36,0,0" VerticalAlignment="Top" FontSize="25"/>
         <Label Content="Vehicle B" HorizontalAlignment="Left" Margin="532,36,0,0" VerticalAlignment="Top" FontSize="25"/>
         <Label Content="Car Make" HorizontalAlignment="Left" Margin="26,94,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VAMake_tb" HorizontalAlignment="Left" Margin="128,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VAMake_tb" HorizontalAlignment="Left" Margin="144,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Car Model" HorizontalAlignment="Left" Margin="26,142,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VAModel_tb" HorizontalAlignment="Left" Margin="128,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VAModel_tb" HorizontalAlignment="Left" Margin="144,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Car Make" HorizontalAlignment="Left" Margin="450,94,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VBMake_tb" HorizontalAlignment="Left" Margin="552,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VBMake_tb" HorizontalAlignment="Left" Margin="568,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Car Model" HorizontalAlignment="Left" Margin="450,142,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VBModel_tb" HorizontalAlignment="Left" Margin="552,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VBModel_tb" HorizontalAlignment="Left" Margin="568,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Fuel/100km" HorizontalAlignment="Left" Margin="26,187,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VAFuel_tb" HorizontalAlignment="Left" Margin="128,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VAFuel_tb" HorizontalAlignment="Left" Margin="144,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Fuel/100km" HorizontalAlignment="Left" Margin="450,187,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VBFuel_tb" HorizontalAlignment="Left" Margin="552,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VBFuel_tb" HorizontalAlignment="Left" Margin="568,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Insur/mon" HorizontalAlignment="Left" Margin="26,233,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VAInsur_tb" HorizontalAlignment="Left" Margin="128,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VAInsur_tb" HorizontalAlignment="Left" Margin="144,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Insur/mon" HorizontalAlignment="Left" Margin="450,233,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VBInsur_tb" HorizontalAlignment="Left" Margin="552,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VBInsur_tb" HorizontalAlignment="Left" Margin="568,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Basic Info" HorizontalAlignment="Left" Margin="919,36,0,0" VerticalAlignment="Top" FontSize="25"/>
         <Label Content="Monthly Range" HorizontalAlignment="Left" Margin="773,94,0,0" VerticalAlignment="Top" FontSize="18"/>
         <TextBox x:Name="VDistance_tb" HorizontalAlignment="Left" Margin="927,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Price" HorizontalAlignment="Left" Margin="26,282,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VAPrice_tb" HorizontalAlignment="Left" Margin="128,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VAPrice_tb" HorizontalAlignment="Left" Margin="144,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Price" HorizontalAlignment="Left" Margin="450,282,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <TextBox x:Name="VBPrice_tb" HorizontalAlignment="Left" Margin="552,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <TextBox x:Name="VBPrice_tb" HorizontalAlignment="Left" Margin="568,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
         <Label Content="Fuel Price" HorizontalAlignment="Left" Margin="773,142,0,0" VerticalAlignment="Top" FontSize="18"/>
         <TextBox x:Name="FuelPrice_tb" HorizontalAlignment="Left" Margin="927,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
-        <Label Content="Result" HorizontalAlignment="Left" Margin="587,373,0,0" VerticalAlignment="Top" FontSize="25"/>
+        <Label Content="Result" HorizontalAlignment="Left" Margin="548,417,0,0" VerticalAlignment="Top" FontSize="25"/>
+        <Label Content="Maintenance" HorizontalAlignment="Left" Margin="26,326,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="VAMain_tb" HorizontalAlignment="Left" Margin="144,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="18"/>
+        <Label Content="Maintenance" HorizontalAlignment="Left" Margin="450,326,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="VBMain_tb" HorizontalAlignment="Left" Margin="568,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" FontSize="18"/>
+        <TextBox x:Name="Result_tb" HorizontalAlignment="Center" Margin="0,465,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="1008" FontSize="20" Height="153"/>
+        <Button x:Name="compare_btn" Content="Compare" HorizontalAlignment="Left" Margin="962,262,0,0" VerticalAlignment="Top" FontSize="20" Width="100" Click="compare_btn_Click"/>
+        <Button x:Name="reset_btn" Content="Rest" HorizontalAlignment="Left" Margin="962,312,0,0" VerticalAlignment="Top" FontSize="20" Width="100"/>
 
     </Grid>
 </Window>
